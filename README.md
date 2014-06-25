@@ -5,7 +5,8 @@ connect1
 
 URLからテキストを取得する
 
-activity_mainに
-・TextView textview1
-・Button button1
-が必要です
+activity_mainに<br>
+・TextView textview1<br>
+・Button button1<br>
+が必要です<br>
+<br>
